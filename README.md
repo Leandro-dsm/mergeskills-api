@@ -1,4 +1,4 @@
-# 🚀 MergeSkills API
+# MergeSkills API
 
 <div align="center">
 
@@ -16,11 +16,11 @@
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 O **MergeSkills API** é uma API RESTful desenvolvida para gerenciar uma plataforma de aprendizado de habilidades de desenvolvimento web. O sistema permite gerenciar cursos, aulas, perguntas e o progresso dos usuários, fornecendo uma base sólida para aplicações de e-learning.
 
-### 🎯 Principais Funcionalidades
+### Principais Funcionalidades
 
 - ✅ **Gerenciamento de Cursos** - CRUD completo de cursos
 - ✅ **Estrutura de Aulas** - Organização hierárquica de conteúdo
@@ -32,7 +32,7 @@ O **MergeSkills API** é uma API RESTful desenvolvida para gerenciar uma platafo
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Backend
 | Tecnologia | Versão | Descrição |
@@ -53,7 +53,7 @@ O **MergeSkills API** é uma API RESTful desenvolvida para gerenciar uma platafo
 
 ---
 
-## 📦 Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado:
 
@@ -64,7 +64,7 @@ Antes de começar, certifique-se de ter instalado:
 
 ---
 
-## 🚀 Instalação
+## Instalação
 
 ### Opção 1: Com Docker (Recomendado)
 
