@@ -7,7 +7,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue.svg)
 ![Docker](https://img.shields.io/badge/Docker-24.0-blue.svg)
 ![Swagger](https://img.shields.io/badge/Swagger-3.0-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **API RESTful para plataforma de aprendizado de habilidades de desenvolvimento web**
 
