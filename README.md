@@ -22,13 +22,13 @@ O **MergeSkills API** é uma API RESTful desenvolvida para gerenciar uma platafo
 
 ### Principais Funcionalidades
 
-- ✅ **Gerenciamento de Cursos** - CRUD completo de cursos
-- ✅ **Estrutura de Aulas** - Organização hierárquica de conteúdo
-- ✅ **Sistema de Perguntas** - Banco de questões com múltipla escolha
-- ✅ **Progresso do Usuário** - Acompanhamento de aprendizado
-- ✅ **Documentação Automática** - Swagger/OpenAPI integrado
-- ✅ **Containerização** - Ambiente isolado com Docker
-- ✅ **Validação de Dados** - Schemas com Pydantic
+-  **Gerenciamento de Cursos** - CRUD completo de cursos
+-  **Estrutura de Aulas** - Organização hierárquica de conteúdo
+-  **Sistema de Perguntas** - Banco de questões com múltipla escolha
+-  **Progresso do Usuário** - Acompanhamento de aprendizado
+-  **Documentação Automática** - Swagger/OpenAPI integrado
+-  **Containerização** - Ambiente isolado com Docker
+-  **Validação de Dados** - Schemas com Pydantic
 
 ---
 
